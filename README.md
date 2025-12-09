@@ -12,9 +12,9 @@ Sou um profissional em formação na área de Tecnologia, com foco em desenvolvi
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"/></code>
 </p>
