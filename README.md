@@ -15,8 +15,8 @@ Sou um profissional em formação na área de Tecnologia, com foco em desenvolvi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png)" width="40" />
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"/></code>
 </p>
 
 ## 🎯 Objetivo Profissional
