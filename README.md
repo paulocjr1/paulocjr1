@@ -3,7 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Técnico em **Desenvolvimento de Sistemas**  
 
-Sou um profissional em formação na área de Tecnologia, com foco em desenvolvimento de sistemas, análise de dados e construção de soluções práticas. Tenho experiência com programação, bancos de dados e desenvolvimento web, além de fundamentos em computação em nuvem.
+Sou um profissional formado em Analise e Desenvolvimento de Sistemas, com foco em desenvolvimento de sistemas, análise de dados e construção de soluções práticas. Tenho experiência com programação, bancos de dados e desenvolvimento web, além de fundamentos em computação em nuvem.
 
 ---
 
