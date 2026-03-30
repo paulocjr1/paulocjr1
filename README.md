@@ -10,6 +10,7 @@ Sou um profissional formado em Analise e Desenvolvimento de Sistemas, com foco e
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS"/></code>
